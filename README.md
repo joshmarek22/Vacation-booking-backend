@@ -30,4 +30,4 @@ The backend was developed to replace a legacy system for a travel agency, provid
 
 ## Database Scheema
 
-![Database Schema](ERD-Diagram.pdf)
+![Database Schema]()
