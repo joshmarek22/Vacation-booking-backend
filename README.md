@@ -30,4 +30,4 @@ The backend was developed to replace a legacy system for a travel agency, provid
 
 ## Database Scheema
 
-![ERD-Diagram]([https://github.com/joshmarek22/Vacation-booking-backend/blob/616b1fee4d3909148eee6a6a263d99450167ea7c/ERD-Diagram.pdf](https://github.com/joshmarek22/Vacation-booking-backend/blob/10bfb276aa8ecf3d6372074bc643a239c88cec65/ERD-Diagram.png))
+![ERD-Diagram](https://github.com/joshmarek22/Vacation-booking-backend/blob/10bfb276aa8ecf3d6372074bc643a239c88cec65/ERD-Diagram.png)
